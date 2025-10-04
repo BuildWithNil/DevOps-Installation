@@ -8,19 +8,6 @@ This repository provides a complete guide to installing and setting up essential
 ---
 
 
-## Prerequisites
-
-1. A system running Ubuntu 20.04 or later.
-    
-2. A user with `sudo` privileges.
-    
-3. Basic knowledge of the Linux command line.
-    
-4. Internet connectivity.
-
-
-----
-
 
 ## 📋 Tools Covered  
 
@@ -70,6 +57,7 @@ A declarative GitOps continuous delivery tool for Kubernetes applications.
 A command-line interface for managing ArgoCD, enabling easier integration into workflows.  
 
 ---
+
 
 
 
