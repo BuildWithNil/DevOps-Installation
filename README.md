@@ -71,8 +71,5 @@ A command-line interface for managing ArgoCD, enabling easier integration into w
 
 ---
 
----
 
-
-**Happy DevOps-ing!** ✨  
 
