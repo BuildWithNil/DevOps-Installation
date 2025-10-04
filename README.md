@@ -71,19 +71,8 @@ A command-line interface for managing ArgoCD, enabling easier integration into w
 
 ---
 
-
-## 🤝 Contributions  
-Contributions are welcome! Feel free to open issues or submit pull requests to improve this guide.  
-
-
----
-
-
-## 📧 Contact  
-For queries or suggestions, reach out via [Email](amitabhdevops2024@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/amitabh-devops).  
-
-
 ---
 
 
 **Happy DevOps-ing!** ✨  
+
